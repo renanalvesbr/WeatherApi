@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\WeatherApi\\WebApi\\WeatherApi.csproj": {}
+    "C:\\temp\\WeatherApi\\WebApi\\WeatherApi.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\WeatherApi\\WebApi\\WeatherApi.csproj": {
+    "C:\\temp\\WeatherApi\\WebApi\\WeatherApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\WeatherApi\\WebApi\\WeatherApi.csproj",
+        "projectUniqueName": "C:\\temp\\WeatherApi\\WebApi\\WeatherApi.csproj",
         "projectName": "WeatherApi",
-        "projectPath": "C:\\DEV\\WeatherApi\\WebApi\\WeatherApi.csproj",
+        "projectPath": "C:\\temp\\WeatherApi\\WebApi\\WeatherApi.csproj",
         "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\WeatherApi\\WebApi\\obj\\",
+        "outputPath": "C:\\temp\\WeatherApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,6 +47,10 @@
               "target": "Package",
               "version": "[3.0.1, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.14, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -70,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

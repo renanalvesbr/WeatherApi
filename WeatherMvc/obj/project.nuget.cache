@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UVJerSRrHGqmWRM1rV2/7TxNbrhbTc/Y7Vy/SSCPknd/GTYEx1odJ/aQdsmYB8AjBwzG6iiuDkv5+pK5jX2PAg==",
+  "dgSpecHash": "IKF6TVumpCspyI0RB1D+VELqj9QrPHNDoFQjH1ItKFfPIYQ+nvCbaTnQYXDLWx4/FsHtvyF3P0i0+Tt25JJOmg==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj",
+  "projectFilePath": "C:\\temp\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alves\\.nuget\\packages\\identitymodel\\5.1.0\\identitymodel.5.1.0.nupkg.sha512",
     "C:\\Users\\alves\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.8\\microsoft.aspnetcore.authentication.openidconnect.5.0.8.nupkg.sha512",

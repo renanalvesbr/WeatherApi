@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj": {}
+    "C:\\temp\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj": {
+    "C:\\temp\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj",
+        "projectUniqueName": "C:\\temp\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj",
         "projectName": "WeatherMvc",
-        "projectPath": "C:\\DEV\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj",
+        "projectPath": "C:\\temp\\WeatherApi\\WeatherMvc\\WeatherMvc.csproj",
         "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\WeatherApi\\WeatherMvc\\obj\\",
+        "outputPath": "C:\\temp\\WeatherApi\\WeatherMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
